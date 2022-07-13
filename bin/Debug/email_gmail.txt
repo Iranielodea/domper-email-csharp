@@ -1,0 +1,12 @@
+001 587
+002 smtp.gmail.com
+003 irani.elodea70@gmail.com
+004 ielodea@70g
+005 irani.elodea70@gmail.com
+006 
+007 iranielodea@hotmail.com
+008 
+009 
+010 Orçamento: 007882 DOMPER Consultoria e Sistemas Ltda.
+011 <html>Olá &nbsp<br><br><br><br>ANDRESSA TREMEA<br><br></html>
+012 C:\Projetos\Domper\SIDomper\Client\exe\PDF\Orcamento-007882-ALEX JOSE TOMIELLO.pdf

@@ -1,0 +1,15 @@
+001 587
+002 smtp.office365.com
+003 irani@domper.com.br
+004 E@584369
+005 irani@domper.com.br
+006 
+007 iranielodea@hotmail.com
+008 
+009 
+010 Chamado: 026303 DOMPER Consultoria e Sistemas Ltda.
+011 <html>Caro(a) : 4 IRMAOS KARANGAS MECANICA E AUTO CENTER LTDA, seguem abaixo informações referente ao chamado realizado na Domper Consultoria e Sistemas: <br><br>Nº Chamado : 026303<br>Data Abertura : 02/01/2018 - Hora : 14:50:00<br>Aberto por : BETINA RIBEIRO DE JESUS<br>Contato : GABRIELA<br>Descrição : Erro nota ID 217 938 105 senha 5254540<br><br>Dados do Atendimento (ENCERRADO)<br><br>Usuário : BETINA RIBEIRO DE JESUS<br>Data Ocorrência: 02/01/2018<br>Hora Inicial : 15:01:00<br>Hora Final : 15:09:00<br>Solução : Alterada cidade para o cadastro de Vacaria que possui os códigos corretos, e orientada a cliente a vincular esta cidade nos cadastros de clientes.
+
+Informado ramo de atividade 3 no cadastro do cliente.
+Orientada cliente a verificar NCM correto do produto pois estava informado 99999999.<br><br>Colocamo-nos a disposição para maiores esclarecimentos. <br><br>Equipe Domper <br><br>Esta mensagem é automática e foi gerada pelo Sistema Interno  de Atividades Domper. <br> Por favor não responda este email.</html>
+012 

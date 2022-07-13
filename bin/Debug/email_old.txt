@@ -1,0 +1,24 @@
+001 587
+002 smtp.office365.com
+003 irani@domper.com.br
+004 E@584369
+005 irani@domper.com.br
+006 Irani
+007 iranielodea@hotmail.com
+008 
+009 
+010 assunto teste
+011 texto exemplo<br> <b>ola mundo</b>
+012 
+001 587
+002 smtp.office365.com
+003 irani@domper.com.br
+004 E@584369
+005 irani@domper.com.br
+006 Irani
+007 iranielodea@hotmail.com
+008 iranielodea@hotmail.com
+009 
+010 assunto teste22
+011 texto exemplo com 2 emails<br> <b>ola mundo</b>
+012 

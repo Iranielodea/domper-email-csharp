@@ -1,0 +1,12 @@
+001 587
+002 smtp.live.com
+003 iranielodea@hotmail.com
+004 segredo@1970
+005 iranielodea@hotmail.com
+006 
+007 iranielodea@hotmail.com
+008 
+009 
+010 Orçamento: 007882 DOMPER Consultoria e Sistemas Ltda.
+011 <html>Olá &nbsp<br><br><br><br>ANDRESSA TREMEA<br><br></html>
+012 C:\Projetos\Domper\SIDomper\Client\exe\PDF\Orcamento-007882-ALEX JOSE TOMIELLO.pdf
