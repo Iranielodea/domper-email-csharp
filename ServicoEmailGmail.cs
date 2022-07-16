@@ -19,7 +19,7 @@ namespace DomperEmail
             MailMessage mail = new MailMessage();
 
             mail.From = new MailAddress(email.MeuEmail);
-            mail.To.Add(email.Destinatario); // para
+            //mail.To.Add(email.Destinatario); // para
             mail.Subject = email.Assunto;
             StringBuilder sb = new StringBuilder();
             mail.IsBodyHtml = true;
